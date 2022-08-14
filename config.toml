@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "Mark's CS notebook | 🇺🇸 "
+theme = "PaperMod"
+custom_js = ["js/custom.js"]
