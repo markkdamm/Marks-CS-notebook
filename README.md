@@ -14,6 +14,8 @@ for(const x in animals){   //O(n*n) ---> O(n^2)
    
 }
 ```
+### Available languages:
+![My Skills](https://skills.thijs.gg/icons?i=py,ts,js&theme=dark)
 ## OK but where is the course
 
 The course is hosted in :.. *it is currently down as I'm updating it, but star this repositorie and come back in a few days it will be up again*
