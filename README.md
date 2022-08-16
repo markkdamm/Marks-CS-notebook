@@ -1,7 +1,7 @@
 # Marks CS notebook
 
 ## Introduction
-This a place where I share my computer science notes step by step and explained with code so you can learn it more easily using analogys, besides I include resources and sometimes I code programming problems at the end of the topic that require applying your knowledge and introduce you to coding interview questions using javascript, the answers are available within this repository in the folder "solutions". It also includes some videos. Example:
+This a place where I share my computer science notes step by step and explained with code so you can learn it more easily using analogys, besides I include resources and sometimes I code programming problems at the end of the topic that require applying your knowledge and introduce you to coding interview questions using javascript, the answers are available within this repository in the folder "solutions".check it out at <a href="https://mark.axesoftwareai.com/notebook/"> Mark's notebook</a> It also includes some videos. Example:
 
 ```javascript
 const animals = ["Bear", "Squirrel", "Girafe"]
@@ -18,7 +18,7 @@ for(const x in animals){   //O(n*n) ---> O(n^2)
 ![My Skills](https://skills.thijs.gg/icons?i=py,ts,js&theme=dark)
 ## OK but where is the course
 
-The course is hosted in : <a href="https://mark.axesoftwareai.com/notebook/">mark's notebook/</a>
+The course is hosted in : <a href="https://mark.axesoftwareai.com/notebook/">Mark's notebook</a>
 
 ## Contents
 
