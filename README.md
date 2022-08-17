@@ -1,4 +1,4 @@
-<h1><img src="https://raw.githubusercontent.com/markkdamm/Marks-CS-notebook/8825f92f7f3d096f1f6e2f5db972b01cbd6714af/source/notebook.svg" width="55" />&nbsp; Marks CS notebook </h1>
+<h1><img src="https://raw.githubusercontent.com/markkdamm/Marks-CS-notebook/8825f92f7f3d096f1f6e2f5db972b01cbd6714af/source/notebook.svg" width="55" />&nbsp; Mark's CS notebook </h1>
 
 ## Introduction
 This a place where I share my computer science notes step by step and explained with code so you can learn it more easily using analogys, besides I include resources and sometimes I code programming problems at the end of the topic that require applying your knowledge and introduce you to coding interview questions using javascript, the answers are available within this repository in the folder "solutions".check it out at <a href="https://mark.axesoftwareai.com/notebook/"> Mark's notebook</a> It also includes some videos. Example:
