@@ -10,9 +10,7 @@ for(const x in animals){   //O(n*n) ---> O(n^2)
 
    for(const x in animals){   //O(n)
    console.log(animal[x]) 
-   }
-   
-}
+   }}
 ```
 ### Available languages:
 ![My Skills](https://skills.thijs.gg/icons?i=py,ts,js&theme=dark)
