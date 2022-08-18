@@ -43,7 +43,7 @@ I work very hard so you guys can learn more easily without getting lost in youtu
 
 ## About Me
 
-I'm Mark, from florida, I'm currently living abroad in spain and I will be moving to Germany soon to attand TUM hopefully 🤞. You can check out more about me in my github profile and my Social. 
+I'm Mark, from florida, I'm currently living abroad in spain and I will be moving to Germany soon to attend TUM hopefully 🤞. You can check out more about me in my github profile and my Social. 
 
 <p align="left">
 <a href="https://twitter.com/mark__damm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="markkdamm" height="30" width="40" /></a>
